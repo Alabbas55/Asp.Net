@@ -1,2 +1,1 @@
-# Asp.Net
-Asp.Net MVCWithImg()
+Asp.net mvc me image upload ka code hai ye
